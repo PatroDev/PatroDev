@@ -1,4 +1,4 @@
- ## 👋 Hi, I’m @PatroDev
+ ## 👋 Hi, I’m Patrice (also known as @Patrodev)
 - 👀 I’m interested in **Web Full-Stack Development**
 - 🌱 I’m currently learning on **Laravel and Flutter**
 - 💞️ I’m looking to collaborate on **Open Source Projects**
