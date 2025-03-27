@@ -2,7 +2,7 @@
 - 👀 I’m interested in **Web Full-Stack Development**
 - 🌱 I’m currently learning on **Laravel and Flutter**
 - 💞️ I’m looking to collaborate on **Open Source Projects**
-- 📫 How to reach me https://github.com/PatroDev
+- 📫 How to reach me (https://www.linkedin.com/in/patrice-compaore-55931a2b8)
 - ⚡ Fun fact: **Podcastings, Musics**
 
 <!---
