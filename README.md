@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning on **Laravel and Flutter**
 - 💞️ I’m looking to collaborate on **Open Source Projects**
 - 📫 How to reach me (https://www.linkedin.com/in/patrice-compaore-55931a2b8)
-- ⚡ Fun fact: **Podcastings, new techs, Musics**
+- ⚡ Fun fact: **Podcastings, New Techs, Musics**
 
 <!---
 PatroDev/PatroDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
